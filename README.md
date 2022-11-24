@@ -96,7 +96,7 @@ Nevertheless, in order to serve institutional investors successfully, Questrade 
 
 [Questrade wikipedia page](https://en.wikipedia.org/wiki/Questrade)
 
-[questrade.com Technology Profile](https://en.wikipedia.org/wiki/Questrade)
+[builtwith.com Technology Profile - Questrade](https://builtwith.com/questrade.com)
 
 [crunchbase.com - Questrade page](https://www.crunchbase.com/organization/questrade)
 
@@ -106,4 +106,4 @@ Nevertheless, in order to serve institutional investors successfully, Questrade 
 
 [MoneySense - Questrade's new Robo-advisor service](https://www.moneysense.ca/save/investing/questrade-robo-advisor-questwealth/)
 
-[KPMG - The future of wealth & asset management](https://www.moneysense.ca/save/investing/questrade-robo-advisor-questwealth/)
+[KPMG - The future of wealth & asset management](https://home.kpmg/ca/en/home/insights/2022/10/future-of-wealth-and-asset-management.html)
