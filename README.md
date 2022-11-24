@@ -1,9 +1,8 @@
 # **Questrade Case study**
 
 ## ***Overview of Questrade Financial Group***
----
 
-![questradelogo](logo.jpg)
+![questradelogo](Logo.jpg)
 
 Questrade Financial Group is engaged in the business of providing financial products and services to customers across Canada. Its primary business activities include providing deposits, investment, loan, securities, mortgages and other financial products and services to its customers. It was founded by Mr. Edward Kholodenko (current CEO) on October 1, 1999. Questrade is funded by BEST Funds, and this funding round was conducted in 2002. This was a Venture Capital funding round and the funding amount has not been disclosed.    
 
@@ -17,7 +16,6 @@ For the purpose of this case study, the focus shall be on the online brokerage (
 ---
 
 ## ***Business Activities of Questrade***
----
 Questrade is an online discount broker and wealth management firm, and its service offerings primarily include ***Self-Directed Investing*** and ***Questwealth Portfolios***. Keeping in line with business practices of an online discount broker, Questrade does not offer any advice to its clients. Instead, Questrade just provides a seamless platform for its clients to trade in the securities markets in real time, while offering very competitive brokerage costs for trading.   
 
 Self-directed investing is a manner in which investors can take control of their own investments as per their own knowledge and understanding of different investment avenues available in the market. Some of the investment avenues available on Questrade are stocks, ETFs, options and mutual funds, etc. This approach is more focused on investors doing their own research and investing as per their personal goals and risk appetite. Furthermore, self-directed investing is clearly very suitable for active investors due to it’s competitive brokerage fees. To serve this segment of self-directed investors better, Questrade provides tools to its clients which include:
@@ -52,7 +50,6 @@ According to www.similarweb.com Questrade has a total of 62 technologies from 16
 ---
 ---
 ## ***Landscape of Wealth Management industry***
----
 The importance and impact of technology has always been revolutionary on the wealth management industry. However, this argument has found new meaning after the world witnessed life-changing effects of COVID-19 in 2020. 
 
 Clients now not only want bespoke and customized solutions to their investment needs, but they want it in real time. The traditional advisor model has never faced such an intense competition as it does now from Robo-advisors and online discount brokers. Introduction of technology has not only significantly reduced costs, but it has also improved service delivery and accessibility for consumers. The very fabric of retail wealth management sector has significantly been transformed by the rising trend of “Robo-advisory” and “online discount broker” model, which caters perfectly to the tech savvy generation of customers today.  
@@ -65,7 +62,6 @@ Some of the other players that are in direct competition with Questrade are: CIB
 ---
 ---
 ## ***Results based on Questrade's performance***
----
 Questrade is currently at number 2 position in the online discount brokerage market segment of Canada. Moreover, 15.10% of consumer traffic in Canada lands on Questrade website for their investment solutions. Some of the key factors that make Questrade successful are:
 
 •	68.57% customers that arrive onto Questrade platforms come through direct marketing channels, which goes to show the aggressive and effective marketing practices of Questrade. 
@@ -87,7 +83,6 @@ It goes without saying that based on its current business practices, and its abi
 ---
 ---
 ## ***Recommedations for future***
----
 Looking upon the success Questrade has received on retail wealth management, one has to wonder if it can replicate it in offering institutional investment solutions. There is a strong argument to be made in favour of Questrade serving institutional clients. The stellar reputation it has, the history and consistency of its success, and the management’s uncanny ability to effectively delivery investment solutions to its target audience, all work in favour of Questrade’s entry into institutional wealth management sector. Moreover, on the premise of serving institutional investors in Canada, Questrade will be able to take a bigger slice of Canada’s wealth management market, whilst also building up its already impressive competencies of asset management solutions. In fact, such an endeavour into institutional investment field could very well be enough to turn Questrade into a powerhouse in wealth management across North America.   
 
 Nevertheless, in order to serve institutional investors successfully, Questrade would need to introduce entirely different set of solutions, as the requirements in the institutional markets are vastly different from that of retail wealth management. Some of the technologies Questrade should explore are data analytics and machine learning for finance applications. These technologies would go long ways in serving institutional clients for analysing vast amounts of data, and leveraging markets insights for improved investment returns, to name a few.                
@@ -97,7 +92,6 @@ Nevertheless, in order to serve institutional investors successfully, Questrade 
 ---
 
 ### ***References***
----
 [Questrade website](https://www.questrade.com/home)
 
 [Questrade wikipedia page](https://en.wikipedia.org/wiki/Questrade)
